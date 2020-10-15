@@ -6,6 +6,18 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Card_Arrangement/Scenes/Card_Arrangement.unity
-    guid: 34852505d3730874e938d4aaa33288c0
+    path: Assets/Scenes/MainScene.unity
+    guid: 992428983c85ca94cb2dedf93a5bf022
+  - enabled: 1
+    path: Assets/Assignment/Card_Arrangement/Scenes/CardArrangment.unity
+    guid: 11287fe861e8c9c4f88a5b744232b333
+  - enabled: 1
+    path: Assets/Assignment/Popup_System/Scenes/PopUpSystem.unity
+    guid: b092f0de30bc4cf498e81cbb2743f9d5
+  - enabled: 1
+    path: Assets/Assignment/FTU_System/Scenes/FTUScene.unity
+    guid: a60d5f51a97455b4d90106a1b0f83538
+  - enabled: 1
+    path: Assets/Assignment/User_Inventory/Scenes/InventoryScene.unity
+    guid: 573204deb7cafa9448e8a7b1f833e213
   m_configObjects: {}
